@@ -1,0 +1,1 @@
+Progect for education. [Origin](https://www.kaggle.com/competitions/spaceship-titanic)
